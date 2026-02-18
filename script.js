@@ -6,3 +6,4 @@ let idade2 = 5
 
 console.log("Olá!", "Meu nome é ", nome2, "e eu tenho", idade2, "anos")
 // Olá" Meu nome é Jian e eu tenho 27 anos
+// Alteração Feito no Código
